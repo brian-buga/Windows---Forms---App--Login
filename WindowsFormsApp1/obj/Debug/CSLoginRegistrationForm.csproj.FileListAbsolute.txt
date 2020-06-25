@@ -1,0 +1,12 @@
+C:\Users\Brian N\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Brian N\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Brian N\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Brian N\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CSLoginRegistrationForm.csprojAssemblyReference.cache
+C:\Users\Brian N\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\Brian N\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\Brian N\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Brian N\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterForm.resources
+C:\Users\Brian N\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CSLoginRegistrationForm.csproj.GenerateResource.cache
+C:\Users\Brian N\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CSLoginRegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\Brian N\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Brian N\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
